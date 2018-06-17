@@ -5,6 +5,7 @@
 ###                                   Location: BMSCE, Bangalore                                                       ###
 ###                                   Creators: Anjana Niranjan, Diganth Prakash, Ramya MA                             ###
 ###                                   For more details, visit github                                                   ###
+###                                   License : MIT open source license                                                ###
 ##########################################################################################################################
 
 /*
@@ -107,6 +108,3 @@ void Stop()
   digitalWrite(RmotorUp,LOW);
   digitalWrite(RmotorDn,LOW);
 }
-    
-
-
